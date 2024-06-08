@@ -1,0 +1,3 @@
+ibasic.forever(function () {
+	
+})
